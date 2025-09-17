@@ -1,5 +1,5 @@
 # hello-world
 
-## Bad changes
+# NEW CHANGES AND BAD CHANGES
 
 Step 1:
